@@ -1,0 +1,6 @@
+a=23;
+b=54;
+print('a is big') if(a>b) else print('b is big')
+c=12;
+d=5;
+print('c is big') if(c>d) else print('d is big')
