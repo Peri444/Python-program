@@ -1,0 +1,4 @@
+a=-6
+print('a is positive') if(a>0) else print('a is negative')
+b=10
+print('b is positive') if(b>0) else print('b is negative')
