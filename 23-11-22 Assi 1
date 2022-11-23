@@ -1,0 +1,6 @@
+a=54
+b=54
+print('a is equal to b') if(a==b) else print('b is not equal to a')
+a=54
+b=45
+print('b is equal to a') if(a==b) else print('b is not equal to a')
