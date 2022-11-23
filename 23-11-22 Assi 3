@@ -1,0 +1,4 @@
+a=53
+print('a is even number') if(a%2==0) else print('a is odd number')
+b=24
+print('b is even number') if(b%2==0) else print('b is odd number')
