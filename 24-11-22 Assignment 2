@@ -1,0 +1,26 @@
+a=int(input('Enter a:'))
+b=int(input('Enter b:'))
+if(a>b):
+    print("a is greater than b");
+else:
+    print("b is greater than a");
+if(a>=b):
+    print("a is greater or equal to than b");
+else:
+    print("b is greater or equal to than a");   
+if(a<b):
+    print("a is less than b");
+else:
+    print("b is less than a");
+if(a<=b):
+    print("a is less or equal to than b");
+else:
+    print("b is less or equal to than a"); 
+if(a==b):
+    print("a is equal to b");
+else:
+    print("b is not equal to a");
+if(a!=b):
+    print("a is not equal to  b");
+else:
+    print("b is equal to a"); 
