@@ -1,0 +1,10 @@
+a=int(input('Enter a:'))
+b=int(input('Enter a:'))
+c=a&b;
+print("Bitwise and value",c);
+c=a|b;
+print("Bitwise or value",c);
+c=a^b;
+print("Bitwise xor value",c);
+c=~a;
+print("Bitwise not value",c);
