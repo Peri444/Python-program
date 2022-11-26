@@ -1,0 +1,34 @@
+a=int(input('Enter a:'))
+c=a>>1;
+print('Right Shift value',c);
+c=a>>2;
+print('Right Shift value',c);
+c=a>>3;
+print('Right Shift value',c);
+c=a>>4;
+print('Right Shift value',c);
+c=a>>5;
+print('Right Shift value',c);
+c=a>>6;
+print('Right Shift value',c);
+c=a>>7;
+print('Right Shift value',c);
+c=a>>8;
+print('Right Shift value',c);
+c=a>>9;
+print('Right Shift value',c);
+c=a>>10;
+print('Right Shift value',c);
+
+'''OUTPUT:
+Enter a:10240
+Right Shift value 5120
+Right Shift value 2560
+Right Shift value 1280
+Right Shift value 640
+Right Shift value 320
+Right Shift value 160
+Right Shift value 80
+Right Shift value 40
+Right Shift value 20
+Right Shift value 10'''
