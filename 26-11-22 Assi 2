@@ -1,0 +1,21 @@
+a=int(input('Enter a:'))
+c=a<<1;
+print('Left Shift value',c);
+c=a<<2;
+print('Left Shift value',c);
+c=a<<3;
+print('Left Shift value',c);
+c=a<<4;
+print('Left Shift value',c);
+c=a<<5;
+print('Left Shift value',c);
+c=a<<6;
+print('Left Shift value',c);
+c=a<<7;
+print('Left Shift value',c);
+c=a<<8;
+print('Left Shift value',c);
+c=a<<9;
+print('Left Shift value',c);
+c=a<<10;
+print('Left Shift value',c);
